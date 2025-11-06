@@ -5,7 +5,7 @@
 ### About:
 - #### My programming languages I am activley learning are Python, Java, and C
 - #### I am seeking any internship opportunites.
-- ### You can reach me at 'danriggl@iu.edu'
+- #### You can reach me at 'danriggl@iu.edu'
 
 <!--
 **DanRig14/DanRig14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
