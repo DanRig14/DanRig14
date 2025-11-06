@@ -1,11 +1,18 @@
-## Hi there 👋
+## Hi there
+## My name is Daniel Riggle
+## I am studying Computer Science w/ a Specialization in Artifiical Intelligence at Indiana University Bloomingtin with a
+
+### About:
+- #### My programming languages I am activley learning are Python, Java, and C
+- #### I am seeking any internship opportunites.
+- ### You can reach me at 'danriggl@iu.edu'
 
 <!--
 **DanRig14/DanRig14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
