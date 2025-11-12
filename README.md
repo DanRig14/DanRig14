@@ -1,6 +1,6 @@
 ## Hi there
 ## My name is Daniel Riggle
-## I am studying Computer Science w/ a Specialization in Artifiical Intelligence at Indiana University Bloomingtin with a
+## I am studying Computer Science w/ a Specialization in Artifiical Intelligence at Indiana University Bloomingtin 
 
 ### About:
 - #### My programming languages I am activley learning are Python, Java, and C
